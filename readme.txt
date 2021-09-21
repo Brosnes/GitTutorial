@@ -1,1 +1,1 @@
-readme file
+Vokt dem for Sindre Nesheim
