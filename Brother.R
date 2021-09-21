@@ -1,11 +1,11 @@
 # Brother
 
-z <- 100
+z <- 4444
 
-y <- rnorm(200)
+y <- rnorm(444)
 
 
 #Important feature 
 
 
-#new feettttuuur
+#new feettttuuur - adding something here
