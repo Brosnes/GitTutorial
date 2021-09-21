@@ -1,11 +1,13 @@
 # Brother
 
-z <- 100
+z <- 4030
 
-y <- rnorm(200)
+y <- rnorm(23)
 
 
 #Important feature 
 
 
 #new feettttuuur
+
+# Crasy stoff
